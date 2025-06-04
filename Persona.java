@@ -15,4 +15,13 @@ public class Persona {
 
        }
     }
+
+    void descansar(boolean estaCansado){
+        if(estaCansado){
+            System.out.println("Vete a dormir u.u ");
+        }else{
+            System.out.println("Sigue practicando codigo >: ");
+        }
+
+    }
 }

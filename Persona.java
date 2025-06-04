@@ -20,8 +20,7 @@ public class Persona {
         if(estaCansado){
             System.out.println("Vete a dormir u.u ");
         }else{
-            System.out.println("Sigue practicando codigo >: ");
+            System.out.println("Sigue practicando codigo >:D ");
         }
-
     }
 }
